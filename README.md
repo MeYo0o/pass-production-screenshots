@@ -31,7 +31,7 @@ Welcome to the Pass mobile app, developed by **Get Pass**. Our app revolutionize
 
 ## Download the App
 
-- **Get the App**: Available on [iOS](https://www.getpass.me/ios) and [Android](https://www.getpass.me/android).
+- **Get the App**: Available on [iOS](https://apps.apple.com/eg/app/pass-move-faster/id1435687530) and [Android](https://play.google.com/store/apps/details?id=me.getpass.pass&hl=en).
 
 ## Contact Us
 
